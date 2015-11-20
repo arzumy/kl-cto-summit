@@ -1,0 +1,51 @@
+Hiring
+Hiring, retention and culture. Lately, my company having a lot of challenge and changes in these areas. Will be interesting to learn from other leaders.
+Hiring in Malaysia - what to look out for and where
+Hiring, Firing, building a team and culture
+- scaling up engineering team across multiple products.
+expanding and scaling a tech team
+Microgrowing
+Hiring
+hiring, scaling team, culture
+So many things, especially related to scaling teams.
+Hiring and scaling.
+Finding and Managing humans
+
+Leadership
+How to lead and manage engineering team. The process and role etc.
+How to lead a team of developers.
+Anything from managing the team
+I want to gain insights, knowledge and of course learn new things about managing people and delivering better values to the business.
+Organization chart architecture
+Would like to know what the peers are doing in the local scene
+Management
+Team management
+
+Retention
+Team building, culture, building a product mindset within a team
+Training
+Culture. How to keep things interesting for coders when its all about code and throw kind of projects
+
+Operations
+Managing expectations when it comes to borderline tech stuff (who handles laptop breakdowns?)
+To get more insight on the technical operations of participating companies.
+How other CTOs handle the offline bits of the role
+liase with the sales team / CEO
+managing schedule and release
+Team management, rails, company management, scaling a platform and a business
+
+Community
+I would like to learn more about how I can contribute my experience from Product Development at Microsoft to growing the development and startup community in Kuala Lumpur, Malaysia and South East Asia.
+
+Technical
+Making tests
+Which language to pick / should I change to a better language?
+using the correct technology at the right time
+Handling technical debt
+Security, cryptography.
+Uptime for my customers
+
+Misc
+Really big mistakes that people don't see until it's too late
+Make friends and how to make more friends.
+Everything
