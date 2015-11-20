@@ -20,11 +20,14 @@ Organization chart architecture
 Would like to know what the peers are doing in the local scene
 Management
 Team management
+An effective mechanism to deal with senior non-business types
+What is the role of tech leadership in non-tech companies?
 
 Retention
 Team building, culture, building a product mindset within a team
 Training
 Culture. How to keep things interesting for coders when its all about code and throw kind of projects
+Understanding how people keep the team motivated and keep the company on a right technical direction.
 
 Operations
 Managing expectations when it comes to borderline tech stuff (who handles laptop breakdowns?)
